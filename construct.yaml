@@ -3,6 +3,8 @@ name: GTM Collective
 slug: gtm-collective
 version: 1.0.0
 description: Go-To-Market skills and commands for product launches, positioning, and developer relations.
+domain:
+  - marketing
 author: 0xHoneyJar
 license: MIT
 skills:
