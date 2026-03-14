@@ -70,6 +70,10 @@ events:
         plan_path: string
         launch_date: string
   consumes: []
+compose_with:
+  - observer
+governed_by:
+  - vocabulary-bank
 identity:
   persona: identity/persona.yaml
   expertise: identity/expertise.yaml
